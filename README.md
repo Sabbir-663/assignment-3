@@ -1,8 +1,8 @@
-Project name : Library management system
+# Project name : Library management system
 
-Technologies : Express.js, mongoDB, mongoose, typescript
+## Technologies : Express.js, mongoDB, mongoose, typescript
 
-Key Features : 
+### Key Features : 
 1.Creating a book with relevant information
 2.Get all books 
 3.Find single book by id
@@ -12,5 +12,5 @@ Key Features :
 7.Find all the borrow's books
 
 For locally run : npm run dev
-live link : 
-github link :
+live link : https://assignment-3-github.vercel.app/
+github link : https://github.com/Sabbir-663/assignment-3
