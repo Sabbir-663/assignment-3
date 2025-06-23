@@ -1,6 +1,6 @@
 # Project name : Library management system
 
-## Technologies : Express.js, mongoDB, mongoose, typescript
+## Technologies Used: Express.js, mongoDB, mongoose, typescript
 
 ### Key Features : 
 
